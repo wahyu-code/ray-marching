@@ -1,4 +1,4 @@
-this is code base of my ray marching demo 
+my ray marching demo 
 
 tools requirement:
 <br>
