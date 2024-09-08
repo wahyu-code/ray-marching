@@ -6,7 +6,7 @@
 #include <demo/ray-marching.hpp>
 static void error_callback(int error, const char *description)
 {
-	std::cout << "Error: " << description << "\n";
+	std::cout << "The Error: " << description << "\n";
 }
 
 int main(void)
