@@ -1,15 +1,20 @@
 # ninja log v5
+49384	56262	7474710394556500	thirdparty/imgui-docking/CMakeFiles/imgui.dir/imgui/imgui_tables.cpp.obj	891cc5b63fb96cfa
+28274	34774	7474710180434783	thirdparty/glad/CMakeFiles/glad.dir/src/glad.c.obj	aa6e4380407d3251
 12	112	0	D:/Template c++/GLFWCMakeSetup-master/build/CMakeFiles/cmake.verify_globs	cbe511991d336753
 118	3513	7474709867792998	CMakeFiles/apps.dir/src/main.cpp.obj	2197a64932b61926
 141	4618	7474709878906934	thirdparty/glfw-3.3.2/src/CMakeFiles/glfw.dir/context.c.obj	69f880e56382d6a3
 3532	7009	7474709902870158	thirdparty/glfw-3.3.2/src/CMakeFiles/glfw.dir/init.c.obj	ba1d4f5279b57281
 4643	8446	7474709917123506	thirdparty/glfw-3.3.2/src/CMakeFiles/glfw.dir/input.c.obj	3a2efce5959d8b0f
-7012	10422	7474709936870407	thirdparty/glfw-3.3.2/src/CMakeFiles/glfw.dir/monitor.c.obj	f6f1b3bdf1881390
 8452	11867	7474709951263404	thirdparty/glfw-3.3.2/src/CMakeFiles/glfw.dir/vulkan.c.obj	45b63b3db1cf361
+58027	60413	7474710436372527	thirdparty/imgui-docking/CMakeFiles/imgui.dir/imgui/backends/imgui_impl_opengl3.cpp.obj	6122e27879e0d91c
+7012	10422	7474709936870407	thirdparty/glfw-3.3.2/src/CMakeFiles/glfw.dir/monitor.c.obj	f6f1b3bdf1881390
 10425	14193	7474709974619228	thirdparty/glfw-3.3.2/src/CMakeFiles/glfw.dir/window.c.obj	8039fc1bdcf091cc
 11875	15295	7474709985471045	thirdparty/glfw-3.3.2/src/CMakeFiles/glfw.dir/win32_init.c.obj	d961cc09680b425c
 14199	17664	7474710009384220	thirdparty/glfw-3.3.2/src/CMakeFiles/glfw.dir/win32_joystick.c.obj	440f4510741aaccc
 15297	18796	7474710020669066	thirdparty/glfw-3.3.2/src/CMakeFiles/glfw.dir/win32_monitor.c.obj	93022f99be792c10
+45137	48910	7474710321870150	thirdparty/imgui-docking/CMakeFiles/imgui.dir/imgui/imgui_demo.cpp.obj	2c155f335d174fef
+35173	49382	7474710326415914	thirdparty/imgui-docking/CMakeFiles/imgui.dir/imgui/imgui.cpp.obj	a6b48344c7beecf8
 17673	20942	7474710041967535	thirdparty/glfw-3.3.2/src/CMakeFiles/glfw.dir/win32_time.c.obj	db30cff7ab7a4176
 18800	22197	7474710054653371	thirdparty/glfw-3.3.2/src/CMakeFiles/glfw.dir/win32_thread.c.obj	f729e4ae6457eba2
 20944	24811	7474710080810520	thirdparty/glfw-3.3.2/src/CMakeFiles/glfw.dir/win32_window.c.obj	eb3fe64a4eb329aa
@@ -17,17 +22,13 @@
 24815	28272	7474710115419115	thirdparty/glfw-3.3.2/src/CMakeFiles/glfw.dir/egl_context.c.obj	604f6b6d4f8bdb30
 25548	28984	7474710122315614	thirdparty/glfw-3.3.2/src/CMakeFiles/glfw.dir/osmesa_context.c.obj	3f91dbb718c6d9ab
 28986	29719	7474710129984669	thirdparty/glfw-3.3.2/src/libglfw3.a	f28201729d39f0fb
-28274	34774	7474710180434783	thirdparty/glad/CMakeFiles/glad.dir/src/glad.c.obj	aa6e4380407d3251
 34776	35171	7474710184513703	thirdparty/glad/libglad.a	557b98911ef7da75
 29721	44681	7474710279282840	thirdparty/raudio/CMakeFiles/raudio.dir/src/raudio.c.obj	5b097e30b5b276c
 44683	45136	7474710283951392	thirdparty/raudio/libraudio.a	1c58c7a1cab488d
-45137	48910	7474710321870150	thirdparty/imgui-docking/CMakeFiles/imgui.dir/imgui/imgui_demo.cpp.obj	2c155f335d174fef
-35173	49382	7474710326415914	thirdparty/imgui-docking/CMakeFiles/imgui.dir/imgui/imgui.cpp.obj	a6b48344c7beecf8
 135	52845	7474710359633867	CMakeFiles/apps.dir/src/openglErrorReporting.cpp.obj	ff669d110c7053eb
-49384	56262	7474710394556500	thirdparty/imgui-docking/CMakeFiles/imgui.dir/imgui/imgui_tables.cpp.obj	891cc5b63fb96cfa
 48916	57990	7474710412089892	thirdparty/imgui-docking/CMakeFiles/imgui.dir/imgui/imgui_draw.cpp.obj	5ace648631a6bcf
-58027	60413	7474710436372527	thirdparty/imgui-docking/CMakeFiles/imgui.dir/imgui/backends/imgui_impl_opengl3.cpp.obj	6122e27879e0d91c
+64528	65867	7474710491342319	apps.exe	9d73acbc1514cdf6
 52982	63718	7474710469575312	thirdparty/imgui-docking/CMakeFiles/imgui.dir/imgui/imgui_widgets.cpp.obj	6c2f74401d88ca87
 56318	63746	7474710469731494	thirdparty/imgui-docking/CMakeFiles/imgui.dir/imgui/backends/imgui_impl_glfw.cpp.obj	fece31148d559e6c
 63747	64527	7474710478199051	thirdparty/imgui-docking/libimgui.a	83d5ea1ab004c3c8
-64528	65867	7474710491342319	apps.exe	9d73acbc1514cdf6
+50	112	0	D:/Template c++/GLFWCMakeSetup-master/build/CMakeFiles/cmake.verify_globs	cbe511991d336753
